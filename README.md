@@ -33,7 +33,7 @@ The game randomly generates a number, and your goal is to guess it before you ru
 
 ## 🛠️ Requirements
 
-* Python 3.x
+* Python 3.13
 
 No external libraries are required. The game only uses Python's built-in `random` module.
 
@@ -44,22 +44,20 @@ No external libraries are required. The game only uses Python's built-in `random
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/mirshmallow/Number-Guessing-Game.git
 ```
 
 2. Open the project folder:
 
 ```bash
-cd YOUR_REPOSITORY
+cd Number-Guessing-Game
 ```
 
 3. Run the program:
 
 ```bash
-python main.py
+python numguessinggame.py
 ```
-
-> Replace `main.py` with your Python file's name if it is different.
 
 ---
 
@@ -99,7 +97,7 @@ If any rule is broken, the game asks you to enter the values again.
 
 ```
 .
-├── main.py
+├── numguessinggame.py
 └── README.md
 ```
 
@@ -129,6 +127,6 @@ This project is open source. Feel free to use, modify, and improve it for learni
 
 ## 👨‍💻 Author
 
-Created by **Mirshad Rahman**.
+Created by **Mirshad Rahman (Mirshmallow)**.
 
 If you enjoyed this project, consider giving the repository a ⭐!
